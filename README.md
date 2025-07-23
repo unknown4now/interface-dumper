@@ -34,7 +34,7 @@ By default, the tool scans for these popular Source Engine games (edit the `Targ
 
 2. **Run**
     - Start your Source Engine game.
-    - Run `interface-dumper.exe`.
+    - Run `Interface Dumper.exe`.
     - The tool will automatically detect the game, scan all modules, and output results to both the console and `dump.txt` in the current directory.
 
 3. **Read Results**
@@ -54,7 +54,6 @@ By default, the tool scans for these popular Source Engine games (edit the `Targ
 - Validates interface names against the well-known pattern (e.g., `VClient018`).
 - Outputs the module name, interface name, and memory address for each found interface.
 - Uses a thread pool to speed up scanning, while keeping CPU usage low.
-- Modules are always processed alphabetically for clean, predictable output.
 
 ---
 
