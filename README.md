@@ -1,6 +1,6 @@
-![zzz](https://github.com/user-attachments/assets/7b7b7b5c-a509-4650-8850-f288e7925d81)# interface-dumper
+![zzz](https://github.com/user-attachments/assets/7b7b7b5c-a509-4650-8850-f288e7925d81)# Source-Engine Interface Dumper
 
-**interface-dumper** is a fast, modern, multithreaded C++ tool for scanning and dumping Source Engine interfaces from running games. It outputs all registered interfaces (with names, modules, and addresses) to both the console and a text file, making it useful for reverse engineers, modders, and Source Engine developers.
+**Source-Engine Interface Dumper** is a fast, modern, multithreaded C++ tool for scanning and dumping Source Engine interfaces from running games. It outputs all registered interfaces (with names, modules, and addresses) to both the console and a text file, making it useful for reverse engineers, modders, and Source Engine developers.
 
 ---
 
