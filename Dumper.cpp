@@ -3,7 +3,7 @@
     ║   Engine Interface Scanner - Source Engine Interface Dumper     ║
     ║                                                                 ║
     ║               Author: (github.com/unknown4now)                  ║
-    ║                          escription:                            ║
+    ║                          description:                            ║
     ║                                                                 ║
     ║     - Scans running Source Engine games for registered.         ║
     ║        interfaces across all loaded modules (DLLs).             ║
