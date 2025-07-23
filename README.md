@@ -79,7 +79,6 @@ Interface lists are invaluable for:
 ```
 
 ---
-![zzz](https://github.com/user-attachments/assets/6d834423-ef5c-47fa-bdff-779ef325d703)
 
 ## Building
 
